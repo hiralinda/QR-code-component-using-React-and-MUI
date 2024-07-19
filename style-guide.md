@@ -10,11 +10,13 @@ The designs were created to the following widths:
 > 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
 
 ## Colors
-
+<!-- box color -->
 - White: hsl(0, 0%, 100%)
-
-- Slate 300: hsl(212, 45%, 89%)
+<!-- bg color -->
+- Slate 300: hsl(212, 45%, 89%) 
+<!-- text color -->
 - Slate 500: hsl(216, 15%, 48%)
+<!-- heading color -->
 - Slate 900: hsl(218, 44%, 22%)
 
 ## Typography
