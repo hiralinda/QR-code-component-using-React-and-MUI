@@ -2,6 +2,7 @@
   "name": "vite",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://hiralinda.github.io/QR-code-component-using-React-and-MUI/",
   "type": "module",
   "scripts": {
     "dev": "vite",
