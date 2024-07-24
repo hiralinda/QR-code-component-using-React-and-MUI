@@ -6,6 +6,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,6 +25,9 @@ This project is a simple, responsive QR code component built as a solution to th
 ![Desktop preview](./desktop-preview.png)
 ![Mobile preview](./mobile-preview.png)
 
+### Links
+
+- Live Site URL: [QR code component Live Site](https://hiralinda.github.io/QR-code-component-using-React-and-MUI/)
 
 ## My process
 
